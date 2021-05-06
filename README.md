@@ -18,7 +18,7 @@ Installing the script is a couple of steps:
 1. Open the Script Editor in mIRC by presing <kbd>ALT</kbd> + <kbd>R</kbd>
    * Make sure you are on the **Remote** tab.
 3. **File** > **New** to create a new script.
-4. Open the script file from this repo, and click "Raw" in the top right.
+4. Open the **.mrc** script file from this repo, and click "Raw" in the top right.
 5. Select everything in the new window (<kbd>CTRL</kbd> + <kbd>A</kbd>)
 6. Copy & Paste the file into the new empty script.
 7. **File** > **Save As...** and call it whatever you want, make sure to select **Script file (\*.ini;\*.mrc)** in **Save as Type**
