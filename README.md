@@ -22,6 +22,15 @@ Installing the script is a couple of steps:
 5. Select everything in the new window (<kbd>CTRL</kbd> + <kbd>A</kbd>)
 6. Copy & Paste the file into the new empty script.
 7. **File** > **Save As...** and call it whatever you want, make sure to select **Script file (\*.ini;\*.mrc)** in **Save as Type**
+8. Close the script editor with the **Ok** button
+
+### Drag & Drop
+1. Download either the **.ini** or **.mrc** file from this repo. ***YOU DO NOT NEED BOTH***
+2. Navigate Windows Explorer to `"%appdata%\mIRC\scripts"`
+3. Move the file you downloaded into the folder you just opened.
+4. In the mIRC Script Editor (<kbd>ALT</kbd> + <kbd>R</kbd>), on the **Remote** tab, click **Load...** and select the file you just copied.
+5. Close the script editor with the **Ok** button
+
 
 ## Using
 Navigate your client to your favourite training or drill channel and type `/cann` without any arguments to open the dialog.
